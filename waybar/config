@@ -2,6 +2,7 @@
  "custom/weather": {
  "format": "{}",
  "exec": "~/.config/waybar/scripts/weather.sh",
- "interval": 3600
+ "interval": 3600,
+ "tooltip": false
  }
 }
