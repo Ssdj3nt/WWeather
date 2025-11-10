@@ -1,4 +1,4 @@
-# WWeather
+# WWeather <img width="74" height="35" alt="sample" src="https://github.com/user-attachments/assets/c9d81dbe-8290-4db5-a0d7-a5abdcee3acf" />
 
 WWeather is a Waybar Weather module.
 
@@ -15,5 +15,3 @@ Waybar config:
  }
 }
 ```
-
-<img width="74" height="35" alt="sample" src="https://github.com/user-attachments/assets/c9d81dbe-8290-4db5-a0d7-a5abdcee3acf" />
